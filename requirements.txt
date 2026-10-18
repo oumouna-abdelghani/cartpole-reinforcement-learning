@@ -1,0 +1,5 @@
+
+tensorflow==2.3.0
+gym==0.17.2
+keras-rl2==1.0.4
+matplotlib==3.3.4
